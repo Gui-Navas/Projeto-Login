@@ -18,6 +18,11 @@ Grandes Telas:120px acima
     section#login {
         width: 80vw;
         height: 380px;
+
+        display: flex;
+        flex-flow: nowrap;
+        justify-content: center;
+        align-items: center;
     }
 
     section#login > div#imagem {
@@ -56,6 +61,11 @@ Grandes Telas:120px acima
     section#login {
         width: 900px;
         height: 500px;
+
+        display: flex;
+        flex-flow: nowrap;
+        justify-content: center;
+        align-items: center;
     }
 
     section#login > div#imagem {
